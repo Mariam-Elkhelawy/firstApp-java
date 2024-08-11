@@ -53,4 +53,12 @@
         android:gravity="bottom"
         tools:layout_editor_absoluteY="224dp" />
 
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/fav"
+        android:scaleType="centerCrop"
+        android:id="@+id/myImage"
+
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
